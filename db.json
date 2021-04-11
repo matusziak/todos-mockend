@@ -1,0 +1,32 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "title": "Go shopping",
+      "description": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.",
+      "done": false,
+      "priority": "low"
+    },
+    {
+      "id": "2",
+      "title": "Job interview",
+      "description": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.",
+      "done": false,
+      "priority": "medium"
+    },
+    {
+      "id": "3",
+      "title": "Prepare homework",
+      "description": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.",
+      "done": false,
+      "priority": "high"
+    },
+    {
+      "id": "4",
+      "title": "Cook dinner",
+      "description": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.",
+      "done": true,
+      "priority": "high"
+    }
+  ]
+}
